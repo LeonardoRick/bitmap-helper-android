@@ -1,5 +1,3 @@
-package com.example.instagram_clone.utils;
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
