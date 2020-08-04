@@ -1,4 +1,3 @@
-import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.ImageDecoder;
@@ -8,7 +7,7 @@ import android.provider.MediaStore;
 
 import java.io.ByteArrayOutputStream;
 
-public class GenericHelper {
+public class BitmapHelper {
 
     /**
      * return bipmap image from given Uri
